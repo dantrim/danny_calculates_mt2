@@ -7,7 +7,7 @@ This package has a MWE of how to set up the (asymmetric) MT2 calculator as devle
 
 * [Paper describing the generic, assymettric MT2 calculation used in this repo](https://arxiv.org/abs/1411.4312)
 * [The truth behind the glam**our**](https://arxiv.org/abs/hep-ph/0304226)
-* [Lester's MT2 algorithm agglomeration](www.hep.phy.cam.ac.uk/~lester/mt2/)
+* [Lester's MT2 algorithm agglomeration](https://www.hep.phy.cam.ac.uk/~lester/mt2/)
 
 ## Installation and Running
 
